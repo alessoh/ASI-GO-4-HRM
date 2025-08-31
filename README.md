@@ -3,7 +3,7 @@
 ## Overview
 
 ASI-GO-4-HRM is an enhanced version of ASI-GO-3 that integrates a Hierarchical Reasoning Model (HRM) for efficient, local evaluation of generated solutions. This hybrid system combines the creative power of LLM-based code generation with the efficiency of neural reasoning, reducing API costs and improving evaluation consistency.
-
+![Alt text](./ASI-GO-Architecture.png)
 ### Key Features
 - **Local HRM Evaluation**: Fast, CPU-based evaluation without GPU requirements
 - **Multi-dimensional Assessment**: Evaluates efficiency, readability, correctness, and generality
